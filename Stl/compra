@@ -1,0 +1,12 @@
+stack ==> push,pop,top
+      ==>can't iterate and take size
+
+queue ==> push , pop , front,back
+      ==>can't iterate , and take size
+vector ==> push_back(),pop_back() =>O(1)
+deque  ==> push_back , pop_back ,push_front,pop_front =>O(1)
+list   ==> push_back(),pop_back(),push_front(),pop_front(),insert(),erase() ==> O(1)
+        -->merge(list2)=>o(n):'merge & sorte 2 lists',splice(position,list2)=>O(1)
+        -->unique()=>delete all same sequence element,remove(element)=>remove the element from the all list
+
+
