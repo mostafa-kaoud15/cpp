@@ -9,6 +9,7 @@ int main()
     //pop_back()==>O(1)
     //front(),back ==> O(1)
     //insert()==>O(n)
+    //position.insert(position.begin(),first.begin(),first.end())
     //erase()==>O(n)
     deque<int>qq={1,3,5,4};
     q.insert(q.begin(),qq.begin(),qq.end());
@@ -16,6 +17,9 @@ int main()
     for(auto it:q){
       cout<<it<<"\t";
     }
+
+
+
 
 
 }

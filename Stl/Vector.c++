@@ -16,7 +16,7 @@ int main()
     // push_back(): Adds an element to the end.
     // pop_back(): Removes the last element.`
     // insert(from,elements): Inserts elements at a specified position.
-    // erase(from,to +1): Removes elements from a specified position or range.
+    // erase(from,to +1): Removes elements from a specified 'من7'ge.
     // clear(): Removes all elements.
 
     // size(): Returns the number of elements.
